@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MedBot - AI Medical Assistant
 
@@ -38,3 +39,6 @@ cd Medical-Chatbot
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+=======
+# Medbot
+>>>>>>> 8608d2b1d34bb1a1b8d2b5469c5b8fe54073df35
