@@ -10,3 +10,4 @@ pinecone>=6.0.0
 sentence-transformers>=3.0.0
 cohere>=5.0.0gunicorn>=21.0.0
 gunicorn>=21.0.0
+gunicorn>=21.0.0
